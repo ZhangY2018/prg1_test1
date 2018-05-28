@@ -1,6 +1,6 @@
 def is_square(number):
 	for num in number:
-	if (num == int):
+	if (num**.5 == int):
 		return Ture
 	else:
 		return False
